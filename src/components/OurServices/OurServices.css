@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 668px){
+    .text-custom-center{
+        text-align: center;
+        padding: 10px;
+        box-shadow: 2px 2px 15px grey;
+        border-radius: 15px;
+    }
+}

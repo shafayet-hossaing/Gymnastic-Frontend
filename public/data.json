@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cycling",
+    "country": "Bangladesh",
+    "id": 1,
+    "rating": 4.3,
+    "Description": "Regular cycling stimulates and improves your heart, lungs and circulation, reducing your risk of cardiovascular diseases. Cycling strengthens your heart muscles lowers resting pulse and reduces blood fat levels.",
+    "img": "https://media.istockphoto.com/vectors/hipster-male-riding-bike-young-man-cyclist-isolated-on-white-stylish-vector-id1272741673?b=1&k=20&m=1272741673&s=612x612&w=0&h=qnm3Kt4P_IJdubdqLRlF7U0QEZB2_57Gx0VP48fWQO8="
+  },
+  {
+    "name": "Running",
+    "country": "Bangladesh",
+    "id": 2,
+    "rating": 4.3,
+    "Description": "As a form of cardio exercise that's easily accessible, running is one of the most straightforward ways to get the important benefits of exercise. Since it improves aerobic fitness, running is a great way to help improve cardiovascular health. Plus, it burns calories and can build strength, among other things.",
+    "img": "https://st2.depositphotos.com/2711989/5267/v/380/depositphotos_52670225-stock-illustration-polygonal-running-man.jpg"
+  },
+  {
+    "name": "Push Ups",
+    "country": "Bangladesh",
+    "id": 3,
+    "rating": 4.3,
+    "Description": "Traditional pushups are beneficial for building upper body strength. They work the triceps, pectoral muscles, and shoulders. When done with proper form, they can also strengthen the lower back and core by engaging (pulling in) the abdominal muscles. Pushups are a fast and effective exercise for building strength.",
+    "img": "https://www.netclipart.com/pp/m/105-1056726_push-ups-workout-press-up.png"
+  },
+  {
+    "name": "Side planks",
+    "country": "Bangladesh",
+    "id": 4,
+    "rating": 4.3,
+    "Description": "Dumbbell rows work muscle groups in your upper body.Although the dumbbell row prioritizes your back muscles, it also provides a comprehensive upper-body workout by activating several other muscle groups, including your chest muscles, core muscles, glutes, lower back muscles, and triceps.",
+    "img": "https://pocketyoga.com/assets/images/poses/plank_kneeling_side_L.png"
+  },
+  {
+    "name": "Dumbbell rows",
+    "country": "Bangladesh",
+    "id": 5,
+    "rating": 4.3,
+    "Description": "To keep you stabilized in a side plank position, the muscles in your shoulders, hips, and sides of your core all have to fire and work together. Protects your spine. Side planks work the deep spinal stabilizing muscle quadratus lumborum . Keeping this muscle strong can help reduce your risk of a back injury.",
+    "img": "https://us.123rf.com/450wm/gmast3r/gmast3r1903/gmast3r190302754/124253102-sports-woman-doing-dumbbells-plank-exercise-girl-lifting-weight-working-out-in-gym-crossfit-training.jpg?ver=6"
+  },
+  {
+    "name": "Squats",
+    "country": "Bangladesh",
+    "id": 6,
+    "rating": 4.3,
+    "Description": "Squats burn calories and might help you lose weight. They also lower your chances of injuring your knees and ankles. As you exercise, the movement strengthens your tendons, bones, and ligaments around the leg muscles. It takes some of the weight off your knees and ankles.",
+    "img": "https://static.vecteezy.com/system/resources/thumbnails/002/898/624/small_2x/squat-man-goes-in-for-sports-man-on-white-background-free-vector.jpg"
+  },
+  {
+    "name": "Basic Weights",
+    "country": "Bangladesh",
+    "id": 7,
+    "rating": 4.3,
+    "Description": "Ne vero choro voluptatum est, an est tale debitis molestiae, nam ei quidam quaestio. Mea in inani cotidieque appellantur, no vix postea phaedrum.",
+    "img": "https://media.istockphoto.com/photos/an-young-and-handsome-indian-bengali-brunette-man-with-muscular-body-picture-id1289125715?k=20&m=1289125715&s=612x612&w=0&h=dPr7lhJdZPHoyR_hV1nVKogs1S_tc0VCH1oDcS0-ww4="
+  }
+]

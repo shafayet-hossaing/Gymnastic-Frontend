@@ -1,0 +1,10 @@
+.border-circle{
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 100%;
+    left: -56px;
+    margin-top: .125rem;
+}
